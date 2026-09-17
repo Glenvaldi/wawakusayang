@@ -162,7 +162,7 @@ Makasih ya udah hadir di hidupku sayang.`,
         teks: "Nggak panjang kok. Tapi aku pengen kamu lihat.",
         /* tempel alamat videonya di sini, contoh:
            youtube: "https://www.youtube.com/watch?v=xxxxxxxxxxx"  */
-        youtube: "https://youtu.be/SeSAwqq_Kpo?si=GLret7bJyPHwVnzQ",
+        youtube: "https://youtu.be/SLXWSQPM59o?si=bn4jJzpsI3GPsRfG",
       },
 
       {

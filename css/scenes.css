@@ -87,6 +87,11 @@
   caret-color: var(--segel);
   box-shadow: 0 6px 18px -10px rgba(0,0,0,.8);
   transition: border-color .2s, transform .2s;
+
+  padding: 0; 
+  margin: 0;
+  line-height: 3.7rem; /* Menyamakan tinggi baris dengan tinggi kotak biar angkanya pas di tengah */
+  -webkit-appearance: none; /* Menghilangkan gaya bawaan iPhone/Safari */
 }
 .gerbang__kotak:focus { outline: none; border-color: var(--emas); transform: translateY(-2px); }
 @keyframes goyang-salah {
