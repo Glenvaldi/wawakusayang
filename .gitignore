@@ -1,0 +1,22 @@
+# sistem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editor
+.vscode/
+.idea/
+*.swp
+
+# vercel
+.vercel/
+
+# node, kalau nanti dipakai
+node_modules/
+npm-debug.log*
+
+# berkas mentah yang tidak perlu ikut naik
+assets/**/*.HEIC
+assets/**/*.heic
+assets/**/*.psd
+assets/**/*.mov
