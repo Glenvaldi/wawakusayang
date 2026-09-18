@@ -805,3 +805,12 @@
 }
 .pratinjau__aksi { display: flex; gap: .6rem; flex-wrap: wrap; justify-content: center; }
 .pratinjau__aksi .tombol { text-decoration: none; font-size: var(--t-sm); padding: .6em 1.3em; }
+
+img {
+  -webkit-transform: translateZ(0) !important;
+  transform: translateZ(0) !important;
+  -webkit-backface-visibility: hidden !important;
+  backface-visibility: hidden !important;
+  -webkit-perspective: 1000 !important;
+  perspective: 1000 !important;
+}
