@@ -609,7 +609,7 @@
       li.innerHTML = `
         <span class="jadwal__titik" aria-hidden="true">${i + 1}</span>
         <div>
-          <p class="jadwal__jam">Pukul ${aman(a.jam)}</p>
+          <p class="jadwal__jam">${aman(a.jam)}</p>
           <p class="jadwal__kategori">${aman(a.kategori || "")}</p>
           <h3 class="jadwal__tempat">${aman(a.tempat)}</h3>
           <p class="jadwal__catatan">${aman(a.catatan || "")}</p>

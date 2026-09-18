@@ -147,7 +147,7 @@ Makasih ya udah hadir di hidupku sayang.`,
         jenis: "lagu",
         label: "Spotify",
         judul: "Lagu yang selalu ngingetin aku ke kamu",
-        artis: "Ganti judul dan penyanyinya di config.js",
+        artis: "Jeje Ceritanya Jatuh Cinta",
         teks: "Dengerin pas lagi santai ya. Aku nggak pernah bisa dengerin ini tanpa kepikiran kamu.",
         /* tempel tautan Spotify-nya di sini, contoh:
            spotify: "https://open.spotify.com/track/1234567890abcdefghij"  */
