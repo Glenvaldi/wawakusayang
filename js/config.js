@@ -82,22 +82,22 @@ Dibaca pelan-pelan yaa sayang, jangan di-skip bacanya :)`,
      sebagai pengganti sementara.                             */
   galeri: [
     {
-      file: "assets/foto/12.jpeg",
+      file: "assets/foto/najwaair.jpeg",
       judul: "Pertama kali",
       catatan: "Betapa indahnya dirimu waktu ini dan membuatku jatuh cinta.",
     },
     {
-      file: "assets/foto/13.jpeg",
+      file: "assets/foto/najwabunga.jpeg",
       judul: "Sore itu",
       catatan: "Bunga pertama untukmu dan Wawaa menerima cintaakuu.",
     },
     {
-      file: "assets/foto/14.jpeg",
+      file: "assets/foto/najwajtp.jpeg",
       judul: "Jatim Park 1",
       catatan: "Foto betapa indahnya dirimu dan JatimPark date kita love.",
     },
     {
-      file: "assets/foto/15.jpeg",
+      file: "assets/foto/najwasepeda.jpeg",
       judul: "Kebun Raya",
       catatan: "Bersepeda bersamamu menikmati indahnya wajahmu kala itu",
     },
