@@ -814,3 +814,12 @@ img {
   -webkit-perspective: 1000 !important;
   perspective: 1000 !important;
 }
+
+/* --- HACK KHUSUS SAFARI IPHONE (POLAROID FLEX BUG) --- */
+.polaroid__bidang {
+  -webkit-mask-image: -webkit-radial-gradient(white, black); /* Memaksa Safari me-render batas kotak */
+}
+.polaroid__bidang img {
+  min-height: 100% !important; /* Paksa Safari nggambar foto sampai bawah */
+  min-width: 100% !important;
+}
