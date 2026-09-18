@@ -822,4 +822,5 @@ img {
 .polaroid__bidang img {
   min-height: 100% !important; /* Paksa Safari nggambar foto sampai bawah */
   min-width: 100% !important;
+  object-position: top !important;
 }
